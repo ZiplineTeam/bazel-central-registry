@@ -354,9 +354,9 @@ fakeredis[lua]==2.33.0 \
     --hash=sha256:d7bc9a69d21df108a6451bbffee23b3eba432c21a654afc7ff2d295428ec5770 \
     --hash=sha256:de535f3f9ccde1c56672ab2fdd6a8efbc4f2619fc2f1acc87b8737177d71c965
     # via pydocket
-fastmcp==2.14.2 \
-    --hash=sha256:bd23d1b808b6f446444f10114dac468b11bfb9153ed78628f5619763d0cf573e \
-    --hash=sha256:e33cd622e1ebd5110af6a981804525b6cd41072e3c7d68268ed69ef3be651aca
+fastmcp==3.2.0 \
+    --hash=sha256:d4830b8ffc3592d3d9c76dc0f398904cf41f04910e41a0de38cc1004e0903bef \
+    --hash=sha256:e71aba3df16f86f546a4a9e513261d3233bcc92bef0dfa647bac3fa33623f681
     # via -r tools/requirements.in
 h11==0.16.0 \
     --hash=sha256:4e35b956cf45792e4caa5885e69fba00bdbc6ffafbfa020300e549b208ee5ff1 \
